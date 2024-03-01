@@ -7,4 +7,6 @@ Explore a captivating 3D story created with Unity! Download and run the scene to
 2. Run the Unity scene to enjoy the interactive 3D story.
 3. Please be aware that external AI services generate materials, voices, images, and AR content dynamically.
 
+[Check it out.](https://streamable.com/hfe0hr)
+
 Note: The AI-generation of the assets are not in this repo.
