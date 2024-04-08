@@ -1,6 +1,6 @@
 # Unity 3D Story Experience
 
-Explore a captivating 3D story created with Unity! Download and run the scene to immerse yourself in a unique narrative. Please note that all materials, voices, images, and AR elements are generated using various AIs, and they are not included in this repository.
+Explore a captivating 3D story created with Unity and AI! Download and run the scene to immerse yourself in a unique narrative. All materials are generated with AI including :images, image depth, voices, music.
 
 ## Instructions
 1. Clone or download the repository.
